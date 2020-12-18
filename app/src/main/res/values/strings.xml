@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NovLang</string>
+    <string name="hint_email">Adresse email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="btn_login">Connecter</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur culpa incidunt possimus praesentium quo? Deserunt earum laudantium nihil perspiciatis quis, vel? Debitis, dolorum eos facere hic in officia similique vel!</string>
+
+</resources>
